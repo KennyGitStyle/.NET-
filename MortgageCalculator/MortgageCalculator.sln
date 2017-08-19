@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortgageCalculator", "MortgageCalculator\MortgageCalculator.csproj", "{A38F43F6-E2B5-4561-AB8E-9CF0267E8DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortgageCalculatorTests", "MortgageCalculatorTests\MortgageCalculatorTests.csproj", "{697FB0A7-2261-4E2C-886C-66322EFE808F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38F43F6-E2B5-4561-AB8E-9CF0267E8DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38F43F6-E2B5-4561-AB8E-9CF0267E8DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38F43F6-E2B5-4561-AB8E-9CF0267E8DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38F43F6-E2B5-4561-AB8E-9CF0267E8DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697FB0A7-2261-4E2C-886C-66322EFE808F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697FB0A7-2261-4E2C-886C-66322EFE808F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697FB0A7-2261-4E2C-886C-66322EFE808F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697FB0A7-2261-4E2C-886C-66322EFE808F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

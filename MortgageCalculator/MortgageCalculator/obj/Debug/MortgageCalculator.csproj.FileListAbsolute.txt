@@ -1,0 +1,14 @@
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\App.g.cs
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator_MarkupCompile.cache
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator_MarkupCompile.lref
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MainWindow.baml
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.g.resources
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.Properties.Resources.resources
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.GenerateResource.Cache
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
+C:\Users\Kenneth\Documents\Visual Studio 2015\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csprojResolveAssemblyReference.cache
